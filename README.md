@@ -9,7 +9,7 @@ Just click over any of the images to see the effect.
 ## Demo
 
 ## [FlexPanel](https://danielgarciaguillen.github.io/flexpanel/)
-![FlexPanel](/image/flexpanel.png?raw=true "CssClock")
+![FlexPanel](/images/flexpanel.png?raw=true "FlexPanel")
 
 
 ## Learnings

@@ -1,15 +1,15 @@
 # Project Title
 
-This is a Css Clock project based on the 30 days Javascript challenge.
+This is an interactive gallery done with flex, CSS and vanilla js based on the 30 days Javascript challenge.
 
 ## Getting Started
 
-Just the time.
+Just click over any of the images to see the effect.
 
 ## Demo
 
-## [Css Clock](https://danielgarciaguillen.github.io/cssclock/)
-![CssClock](/image/cssclock.png?raw=true "CssClock")
+## [FlexPanel](https://danielgarciaguillen.github.io/flexpanel/)
+![FlexPanel](/image/cssclock.png?raw=true "CssClock")
 
 
 ## Learnings

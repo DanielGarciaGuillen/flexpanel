@@ -14,8 +14,10 @@ Just click over any of the images to see the effect.
 
 ## Learnings
 
-* How to transform elements by origin with css transform-origin: 100%;
-* How to use js hour with date()
+* Use display: flex to align the panel vertically
+* Use flex: 1 to distribute them evenly on the container
+* Use flex-direction: column to align the text vertically
+* Use  transform: translateY(-100%) to hide elements on the panel
 
 ## Built With
 
